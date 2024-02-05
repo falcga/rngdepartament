@@ -1,0 +1,840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rtd.py",
+			"settings":
+			{
+				"buffer_size": 305,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"insert",
+					{
+						"characters": "include"
+					},
+					"BwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAcAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					12,
+					"left_delete",
+					null,
+					"CAAAAAcAAAAAAAAABwAAAAAAAAABAAAAIAYAAAAAAAAABgAAAAAAAAABAAAAZQUAAAAAAAAABQAAAAAAAAABAAAAZAQAAAAAAAAABAAAAAAAAAABAAAAdQMAAAAAAAAAAwAAAAAAAAABAAAAbAIAAAAAAAAAAgAAAAAAAAABAAAAYwEAAAAAAAAAAQAAAAAAAAABAAAAbgAAAAAAAAAAAAAAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "im"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "port"
+					},
+					"BAAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " np"
+					},
+					"AwAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAgAAAAAAAAACAAAAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "umpy"
+					},
+					"BAAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " as"
+					},
+					"AwAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": " np"
+					},
+					"AwAAAA8AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABIAAAAAAAAAEwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "impo"
+					},
+					"BAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"left_delete",
+					null,
+					"AQAAABcAAAAAAAAAFwAAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "st"
+					},
+					"AgAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " syste"
+					},
+					"BgAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AQAAAB8AAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAABcAAAAAAAAAFwAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "\nimpor"
+					},
+					"BgAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": " random"
+					},
+					"BwAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					10,
+					"left_delete",
+					null,
+					"CgAAAC4AAAAAAAAALgAAAAAAAAABAAAAbS0AAAAAAAAALQAAAAAAAAABAAAAbywAAAAAAAAALAAAAAAAAAABAAAAZCsAAAAAAAAAKwAAAAAAAAABAAAAbioAAAAAAAAAKgAAAAAAAAABAAAAYSkAAAAAAAAAKQAAAAAAAAABAAAAcigAAAAAAAAAKAAAAAAAAAABAAAAICcAAAAAAAAAJwAAAAAAAAABAAAAdCYAAAAAAAAAJgAAAAAAAAABAAAAciUAAAAAAAAAJQAAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					3,
+					"left_delete",
+					null,
+					"AwAAACQAAAAAAAAAJAAAAAAAAAABAAAAcCMAAAAAAAAAIwAAAAAAAAABAAAAbSIAAAAAAAAAIgAAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"paste",
+					null,
+					"AQAAACIAAAAAAAAA3QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					2,
+					"left_delete",
+					null,
+					"AgAAABMAAAAAAAAAEwAAAAAAAAANAAAAaW1wb3J0IHN5c3RlbRIAAAAAAAAAEgAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"paste",
+					null,
+					"AgAAAGkAAAAAAAAAGgEAAAAAAAAAAAAAGgEAAAAAAAAaAQAAAAAAAGYAAAAjIFJvbGwgdGhlIGRpZQpyZXN1bHQgPSBybmcuaW50ZWdlcnMoMSwgNykgICMgR2VuZXJhdGVzIGEgcmFuZG9tIGludGVnZXIgYmV0d2VlbiAxIGFuZCA2CnByaW50KHJlc3VsdCk",
+					"AQAAAAAAAAABAAAAzwAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACQAAAAAAAAAJQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"paste",
+					null,
+					"AQAAACUAAAAAAAAAbgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					4,
+					"left_delete",
+					null,
+					"BAAAAEsAAAAAAAAASwAAAAAAAAABAAAAIEoAAAAAAAAASgAAAAAAAAABAAAAPkkAAAAAAAAASQAAAAAAAAABAAAAPkgAAAAAAAAASAAAAAAAAAABAAAAPg",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAaW1wb3J0IG51bXB5IGFzIG5wIAppbXBvcnQgcmFuZG9tZ2Vu",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					69,
+					10,
+					"left_delete",
+					null,
+					"CgAAAHkAAAAAAAAAeQAAAAAAAAABAAAALngAAAAAAAAAeAAAAAAAAAABAAAAbncAAAAAAAAAdwAAAAAAAAABAAAAZXYAAAAAAAAAdgAAAAAAAAABAAAAZ3UAAAAAAAAAdQAAAAAAAAABAAAAbXQAAAAAAAAAdAAAAAAAAAABAAAAb3MAAAAAAAAAcwAAAAAAAAABAAAAZHIAAAAAAAAAcgAAAAAAAAABAAAAbnEAAAAAAAAAcQAAAAAAAAABAAAAYXAAAAAAAAAAcAAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAegAAAAAAAAB6AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "rtd anim.py",
+			"settings":
+			{
+				"buffer_size": 1285,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAogQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"paste",
+					null,
+					"AgAAAIcEAAAAAAAArAQAAAAAAAAAAAAArAQAAAAAAACsBAAAAAAAABkAAABDOlxcc29tZV9hbmltYXRlZF9naWYuZ2lm",
+					"AQAAAAAAAAABAAAAhwQAAAAAAACgBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAKwEAAAAAAAArQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAQAAAAAAACsBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"paste",
+					null,
+					"AQAAAK0EAAAAAAAAtQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArQQAAAAAAACtBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "///"
+					},
+					"AwAAAPQBAAAAAAAA9QEAAAAAAAAAAAAA9QEAAAAAAAD2AQAAAAAAAAAAAAD2AQAAAAAAAPcBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AEAAAAAAAD0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					3,
+					"left_delete",
+					null,
+					"AwAAAPYBAAAAAAAA9gEAAAAAAAABAAAAL/UBAAAAAAAA9QEAAAAAAAABAAAAL/QBAAAAAAAA9AEAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAA9wEAAAAAAAD3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAPQBAAAAAAAA9QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AEAAAAAAAD0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPUBAAAAAAAA9gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9QEAAAAAAAD1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"reindent",
+					null,
+					"AQAAACoCAAAAAAAANgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKgIAAAAAAAAqAgAAAAAAAAAAAAAAgFhA"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAADYCAAAAAAAAOgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgIAAAAAAAA2AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"left_delete",
+					null,
+					"AQAAADYCAAAAAAAANgIAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAOgIAAAAAAAA6AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"paste",
+					null,
+					"AQAAADYCAAAAAAAAcAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgIAAAAAAAA2AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"paste",
+					null,
+					"AgAAABkDAAAAAAAAUQMAAAAAAAAAAAAAUQMAAAAAAABRAwAAAAAAADoAAABvdXRzdHIgKz0gY2hhcnNbKG9yZChwaXhlbCkgKiAobGVuKGNoYXJzKSAtIDEpKSAvIDI1NV0gKyBc",
+					"AQAAAAAAAAABAAAAGQMAAAAAAABTAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "vertical"
+					},
+					"CAAAAPMEAAAAAAAA9AQAAAAAAAAAAAAA9AQAAAAAAAD1BAAAAAAAAAAAAAD1BAAAAAAAAPYEAAAAAAAAAAAAAPYEAAAAAAAA9wQAAAAAAAAAAAAA9wQAAAAAAAD4BAAAAAAAAAAAAAD4BAAAAAAAAPkEAAAAAAAAAAAAAPkEAAAAAAAA+gQAAAAAAAAAAAAA+gQAAAAAAAD7BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8wQAAAAAAADzBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C#.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C#.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C#.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C#dotnet.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C#dotnet.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/User/C#dotnet.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/C#dotnet.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C#dotnet.sublime-build",
+					"Run Interactive"
+				],
+				[
+					"Packages/User/C#macos.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C#dotnet.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C#.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C#macos.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C#macos.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Preferences: Settings"
+			],
+			[
+				"pack",
+				"View Package File"
+			],
+			[
+				"Package C",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install Pa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/falcga/Documents/GitHub/desktop-tutorial/README.md",
+		"/Users/falcga/Downloads/projects/untitled.py",
+		"/Users/falcga/Downloads/test.cs",
+		"/Users/falcga/Library/Application Support/Sublime Text/Packages/User/C#dotnet.sublime-build",
+		"/Users/falcga/Documents/tests.cs",
+		"/Users/falcga/Library/Application Support/Sublime Text/Packages/User/C#macos.sublime-build",
+		"/Users/falcga/Library/Application Support/Sublime Text/Packages/User/C#.sublime-build",
+		"/Users/falcga/Documents/сочинение значится",
+		"/Users/falcga/Documents/nomogram.py",
+		"/Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT/LMT Kodak 2383 Print Emulation.xml",
+		"/Users/Shared/Epic Games/eurekaPublic/Launcher/launcher-installer-macos",
+		"/Users/falcga/emotional_museum/emotional_museum/manage.py",
+		"/Users/falcga/emotional_museum/emotional_museum/emotional_museum/forms.py",
+		"/Users/falcga/emotional_museum/emotional_museum/emotional_museum/asgi.py",
+		"/Users/falcga/emotional_museum/emotional_museum/emotional_museum/__init__.py",
+		"/Users/falcga/Documents/calc.cs"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rtd.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rtd anim.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1275,
+								1275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 596.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pipipi.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
