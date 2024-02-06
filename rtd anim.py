@@ -45,6 +45,8 @@ def animgif_to_ASCII_animation(animated_gif_path):
 
 # run the animation based on some animated gif
 dice = random.choice([1, 2, 3, 4, 5, 6])
+#dice = random.choice([1, 2, 3, 4, 5, 6, 9999999]) #debug
+
 if dice == 1:
     animgif_to_ASCII_animation(u'/Users/falcga/Documents/GitHub/rngdepartament/gifs/1.gif')
     pass
