@@ -1,12 +1,23 @@
 import pyglet, sys, os, time, random
 
+# now i want to make some reajusting of the gif using this code
+size = os.get_terminal_size()
+print(f"Terminal size: {size.columns} columns x {size.lines} lines")
+
+
+
 def animgif_to_ASCII_animation(animated_gif_path):
-    # map greyscale to characters
     chars = ('#', '#', '@', '%', '=', '+', '*', ':', '-', '.', ' ')
     clear_console = 'clear' if os.name == 'posix' else 'CLS'
 
+    # get terminal size
+    size = os.get_terminal_size()
+
     # load image
     anim = pyglet.image.load_animation(animated_gif_path)
+
+    # resize image to fit terminal window size
+    anim = anim.scale(size.columns // anim.width)
 
     # Step through forever, frame by frame
     while True:
@@ -18,8 +29,8 @@ def animgif_to_ASCII_animation(animated_gif_path):
             # Built up the string, by translating luminance values to characters
             outstr = ''
             for (i, pixel) in enumerate(data):
-                outstr += chars[int(pixel * (len(chars) - 1) / 255)] + \
-                          ('\n' if (i + 1) % frame.image.width == 0 else '')
+            outstr += chars[int(pixel * (len(chars) - 1) / 255)] + \
+                      ('\n' if (i + 1) % frame.image.width == 0 else '')
 
             # Clear the console
             os.system(clear_console)
